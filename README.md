@@ -20,3 +20,5 @@ Your submission file should be in the following format: For each of the 28000 im
 
 
 The evaluation metric for this contest is the categorization accuracy, or the proportion of test images that are correctly classified. For example, a categorization accuracy of 0.97 indicates that you have correctly classified all but 3% of the images.
+
+More descriptive description as well as TRAIN/TEST data to the Digit Recognizer Kaggle Competition can be found here https://www.kaggle.com/c/digit-recognizer/data
